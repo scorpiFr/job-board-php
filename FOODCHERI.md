@@ -57,3 +57,5 @@ Tout simplement, envoyez-moi un email à jeanne.londiche@jlrecrutement.com avec 
 
 ----
 <a href="https://github.com/jlondiche/job-board-php/blob/master/README.md">[Retour a la liste]</a>
+
+Note : J'ai passé une entretien chez eux il y'a 8 mois, ils ne m'ont jamais recontacté. Ni pour me dire 'oui', ni pour me dire 'non', ni pour me dire quoi que ce soit d'autre. #respectcandidat . -- Khalaghi Camille - Senior developpeur php/symfony/API.
